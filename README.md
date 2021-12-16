@@ -13,7 +13,7 @@ The pokedex app allows users to see the first 151 pokemon of the kato region, Us
 * React
 ### ***Getting Started***
 ##### Set up the api to have the first 151 pokemin and be able to get that data and display it. 
-##### A Trello board was used to keep track of the development progress and can be viewed [here.](https://trello.com/b/E17uenko/requirements)
+##### A Trello board was used to keep track of the development progress and can be viewed [here.](https://trello.com/b/k5wOt0qR/pokedex)
 ### ***Screenshots***
 
 ### ***Future Updates***
