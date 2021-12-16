@@ -4,7 +4,7 @@
 ##### [Github |](https://github.com/chriszc97) [Linkedin | ](https://www.linkedin.com/in/christopher-zeas-8929691b1/) [ Website |]() [ Facebook]()
 ***
 ### ***Description***
-The pokedex app allows users to see the first 151 pokemon of the kato region, Users can olso interact with the app to add there own pokemon. (fake or real).
+The pokedex app allows users to see the first 151 pokemon of the kato region, Users can also interact with the app to add there own pokemon. (fake or real). They would be displayed in a different component.
 ### ***Technologies Used***
 * CSS Grid
 * Event listeners
